@@ -35,11 +35,6 @@ body {
     padding: 2rem 2rem;
 }
 
-.profile {
-    width: 100%;
-    border-bottom: 2px solid #1B2631;
-}
-
 .profile .profile-image {
     width: 100%;
     border-radius: 100%;
@@ -60,9 +55,9 @@ body {
     text-align: center;
     letter-spacing: 2px;
     padding-bottom: 1rem;
+    font-family: 'Roboto Slab', serif;
 }
 
-/* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
     color: #000000;
     font-size: 20px;
@@ -86,6 +81,7 @@ body {
     color: #000000;
     letter-spacing: 1px;
     font-size: 18px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .contact-info ul li i,
@@ -106,6 +102,7 @@ body {
     display: flex;
     align-items: center;
     text-transform: uppercase;
+    font-family: 'Roboto Slab', serif;
 }
 
 .referance-name {
@@ -150,6 +147,7 @@ body {
     letter-spacing: 1px;
     line-height: 2rem;
     color: #000000;
+    font-family: 'Roboto Slab', serif;
 }
 
 .experience-contents,
@@ -172,6 +170,7 @@ body {
 .education-time-period,
 .awards-time-period {
     font-size: 18px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .exp-position,
@@ -185,4 +184,5 @@ body {
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    font-family: 'Roboto Slab', serif;
 }
